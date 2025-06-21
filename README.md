@@ -27,7 +27,7 @@ Verify the role attachment using the AWS CLI: aws sts get-caller-identity
 
 3. Clone the Terraform Repository repository from GitHub:
 
-    git clone https://github.com/saidreddym/zensar-cttower-tf-setup.git
+    git clone https://github.com/saidreddym/zensar-ct-git-repo.git
 
 4. Update Account Email Addresses
     Modify the audit and log archive account email addresses in the variables.tf or appropriate variable 
